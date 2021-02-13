@@ -1,10 +1,8 @@
 ---
 layout: post
-catalog: true
-header-mask: "0.4"
 title: ArcoLinux Distro Untuk Mencoba Arch Pemula
 date: 2021-01-28T23:30:00.000+07:00
-author: Linux Mania
+author: [Linux Mania]
 image: img/terminal.png
 tags:
 - arcolinux

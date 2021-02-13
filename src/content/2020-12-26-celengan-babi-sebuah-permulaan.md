@@ -5,9 +5,7 @@ tags:
 - cerpen
 - Buku
 layout: post
-catalog: false
-header-mask: '0.4'
-author: WilFauzy
+author: [WilFauzy]
 image: img/theme9_v273a9_y3uh3k.jpg
 ---
 

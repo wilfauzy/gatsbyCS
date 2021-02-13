@@ -4,9 +4,7 @@ date: 2020-12-24 03:32:00 +07:00
 tags:
 - cloudflare
 layout: post
-catalog: true
-header-mask: '0.4'
-author: pemuda malkis
+author: [pemuda malkis]
 image: img/cloudflare-pages.png
 ---
 

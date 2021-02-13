@@ -1,10 +1,8 @@
 ---
 layout: post
-catalog: true
-header-mask: "0.4"
 title: Cara Setting Quic Cloud di Plugin LiteSpeed Cache
 date: 2021-02-08 22:30:00 +0700
-author: pemuda malkis
+author: [pemuda malkis]
 image: img/quicker.jpg
 tags:
 - litespeed

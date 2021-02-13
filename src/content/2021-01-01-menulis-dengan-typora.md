@@ -6,12 +6,8 @@ tags:
 - menulis
 - jekyll
 layout: post
-catalog: false
-header-mask: '0.4'
-author: Redaksi
+author: [Redaksi]
 image: img/typora-1.png
-redirect_from:
-- "/Menulis-Dengan-Typora/"
 ---
 
 Sebelumnya saya ucapkan selamat tahun baru untuk manusia yang masih sanggup hidup di dunia, memang tahun baru kali ini tidak sama dengan tahun baru sebelumnya, diman hanya berdiam diri sendiri di rumah hanya ditemani sebotol kaleng nescafe dan beberapa batang surya, kali ini ingin membahas salah satu editor markdown yaitu typora.

@@ -1,10 +1,8 @@
 ---
 layout: post
-catalog: true
-header-mask: "0.4"
 title: Jekyll Workers Site Dengan Wrangler Action
 date: 2021-02-05 14:00:00 +0700
-author: pemuda malkis
+author: [pemuda malkis]
 image: img/workers-social.png
 tags:
 - jekyll

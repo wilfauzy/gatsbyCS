@@ -1,10 +1,8 @@
 ---
 layout: post
-catalog: true
-header-mask: "0.4"
 title: Motor Mogok Sedangkan Perut Lapar
 date: 2021-02-11 02:30:00 +0700
-author: WilFauzy
+author: [WilFauzy]
 image: img/dorong-motor_2510.jpg
 tags:
 - note

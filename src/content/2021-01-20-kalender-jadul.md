@@ -1,10 +1,8 @@
 ---
 layout: post
-catalog: false
-header-mask: "0.4"
 title: Kalender Jadul
 date: 2021-01-20 14:13:00 +0700
-author: Redaksi
+author: [Redaksi]
 image: img/e9e36060883469-5a5cccc987050-ca461dc-0ef47b266560a8caef5e130646fc033a.jpg
 tags:
 - cerpen

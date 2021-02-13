@@ -1,10 +1,8 @@
 ---
 layout: post
-catalog: true
-header-mask: "0.4"
 title: Deploy Gatsby Website di Cloudflare Workers
 date: 2021-01-31T00:35:00.000+07:00
-author: pemuda malkis
+author: [pemuda malkis]
 image: img/gatsby-website.png
 tags:
 - gatsby

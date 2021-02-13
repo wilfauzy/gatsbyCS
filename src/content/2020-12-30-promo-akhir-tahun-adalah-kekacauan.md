@@ -4,9 +4,7 @@ date: 2020-12-30 11:00:00 +07:00
 tags:
 - note
 layout: post
-catalog: false
-header-mask: '0.4'
-author: WIlFauzy
+author: [WIlFauzy]
 image: img/unsplash-image-7.jpg
 ---
 

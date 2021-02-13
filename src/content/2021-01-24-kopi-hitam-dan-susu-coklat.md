@@ -1,10 +1,8 @@
 ---
 layout: post
-catalog: true
-header-mask: "0.4"
 title: Kopi Hitam dan Susu Coklat
 date: 2021-01-24 09:49:00 +0700
-author: WIlFauzy
+author: [WIlFauzy]
 image: img/img_20210106_232233.jpg
 tags:
 - kopi

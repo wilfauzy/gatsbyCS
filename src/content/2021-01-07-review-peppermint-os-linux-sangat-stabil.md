@@ -1,8 +1,6 @@
 ---
 layout: post
-catalog: true
-header-mask: "0.4"
-title: 'Review PepperMint Os Linux Sangat Stabil '
+title: Review PepperMint Os Linux Sangat Stabil
 date: 2021-01-07 13:11:00 +0700
 author: Linux Mania
 image: img/default-desktop.jpg
