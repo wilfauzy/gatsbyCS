@@ -49,7 +49,7 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
+  title: 'WildanFauzy.com',
   description: 'Stories That Matters',
   coverImage: 'img/about.png',
   logo: 'img/about.png',
@@ -62,7 +62,7 @@ const config: WebsiteConfig = {
   mailchimpName: '72d29580a7ee388212e8622a5&id=f06aca7400',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',
-  footer: 'is based on Gatsby Casper',
+  footer: 'is based on GatsbyJS',
 };
 
 export default config;
