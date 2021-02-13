@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: src/content
+  label: post
+  create: documents
+  match: "'**/*'"
+  exclude: ".yml"
+  new_doc_ext: ".md"
 - type: document
   path: src/content
   label: post
