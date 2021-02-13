@@ -3,9 +3,9 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Casper',
-    description: 'A port of the casper blog built for gatsby',
-    siteUrl: 'https://gatsby-casper.netlify.com', // full path to blog - no ending slash
+    title: 'WildanFauzy.com',
+    description: 'WildanFauzy.com adalah blog yang membahas info menarik disajikan secara asik dan santai, kumpulan cerita dari sudut pandang yang berbeda',
+    siteUrl: 'https://wildanfauzy.com', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
@@ -54,7 +54,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://gatsby-casper.netlify.com',
+        siteUrl: 'https://wildanfauzy.com',
       },
     },
     'gatsby-plugin-typescript',
