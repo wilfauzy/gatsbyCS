@@ -9,12 +9,10 @@ sections:
   label: post
   create: documents
   match: "'**/*'"
-  exclude: ".yml"
-  new_doc_ext: ".md"
+  new_doc_ext: ''
 - type: document
   path: src/content
   label: post
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
