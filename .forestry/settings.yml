@@ -7,11 +7,8 @@ sections:
 - type: directory
   path: src/content
   label: post
-  create: documents
+  create: all
   match: "**/*"
-- type: document
-  path: src/content
-  label: content
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
